@@ -1,14 +1,14 @@
 ---
-title: Website
+title: Site Navigation
 description: 
 published: true
-date: 2021-12-14T21:22:07.375Z
+date: 2022-01-03T00:28:27.529Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-12T06:13:32.590Z
 ---
 
-# Website
+# Site Navigation
 In this menu you can navigate to perform many activities with pyros or have some knowledge about them.
 
 
