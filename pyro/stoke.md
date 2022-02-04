@@ -2,7 +2,7 @@
 title: Stoke
 description: 
 published: true
-date: 2021-12-16T20:57:55.793Z
+date: 2022-02-04T18:13:17.178Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-12T05:58:29.079Z
@@ -45,5 +45,4 @@ You can inherit two traits to the children.
 ![stoke_cooldown.png](/stoke_cooldown.png)
 - **NextPyroGenesis:**  is the date which you can call **ignite** on, or after
 - **StokingWith:** shows the DonorB
-- After you call **ignite**, DonorA will have another cooldown 35 days
 - Pyro is avaible to do others [activities](/pyro/activities) while you wait **NextPyroGenesis**
